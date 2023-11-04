@@ -5,3 +5,8 @@ if(a>0){
 
     alert("this is a valid age");
 }
+
+
+if(a<0){
+    alert("this is a invalid age");
+}
