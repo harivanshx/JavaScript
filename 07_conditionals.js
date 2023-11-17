@@ -8,5 +8,5 @@ if(a>0){
 
 
 if(a<0){
-    alert("this is a invalid age");
+    alert("this is a invalid ");
 }
